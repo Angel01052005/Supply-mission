@@ -1,2 +1,1 @@
-# Supply-mission
-Drop the package
+# SupplyMission
